@@ -1,35 +1,23 @@
 # Custom Voting 
 
-This project is call CustomVoting( or Polling ), employing javaFX, will allow user to create a custom Voting Pool
-
-## Getting Started
-
-You can just download the CustomVoting.jar and run on command line on windown 10.
-
+This project is call CustomVoting( or Polling ), employing javaFX, will allow user to create a custom Voting Pool for event or vote in class 
 
 ### Prerequisites
 
-To modify my code, you only need basic knowledge of Java and JavaFX ( in this code, the graphics were made mainly from JavaFX Dialog)
+To modify my code, you only need basic knowledge of Java (Lists, Insertion Sorting, and I/O) and JavaFX ( in this code, the graphics were made mainly from JavaFX Dialog)
 
 ### Installing
 
-To do this, simply open cmd and type java -jar link-to-jar\CustomVoting.jar
+To start the program, there is 3 ways:
+1. simply open cmd and type java -jar link-to-jar\CustomVoting.jar
+2. Run the CustomVote.exe
+3. download the class CustomVoting and Candidate (remember to modify the package) and run it in a new project in IDE.
 
-Say what the step will be
-
-```
-![screenshot_1](https://user-images.githubusercontent.com/44376091/48687741-b5a35b80-eb90-11e8-87ec-5862c471079a.png)
+You should see a new window pops up
 
 
-```
+![image](https://user-images.githubusercontent.com/44376091/49311617-9e793d80-f4af-11e8-8fbf-d8297cc3b4c9.png)
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
