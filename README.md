@@ -21,55 +21,39 @@ You should see a new window pops up
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+For example I will set up as a Name printing. A window to add the Candidate will pop up.
 
-### Break down into end to end tests
+![image](https://user-images.githubusercontent.com/44376091/49333311-832f3080-f58a-11e8-9d79-6c9bda8deffa.png)
 
-Explain what these tests test and why
+After you click finish you will be able to start to vote
 
-```
-Give an example
-```
+![image](https://user-images.githubusercontent.com/44376091/49333324-b245a200-f58a-11e8-84bb-595bcdcbace3.png)
 
-### And coding style tests
+You will also be able to save the result of your vote into a file
 
-Explain what these tests test and why
+![image](https://user-images.githubusercontent.com/44376091/49333327-c7bacc00-f58a-11e8-8475-b90d5bae3598.png)
 
-```
-Give an example
-```
+Entering result will pop up a result window with details vote number of each candidate and the winner
 
-## Deployment
+![image](https://user-images.githubusercontent.com/44376091/49333340-0fd9ee80-f58b-11e8-8b0b-389801529c3f.png)
 
-Add additional notes about how to deploy this on a live system
+
+### Code
+The choice Box was build manually in JavaFX 
+
+
+![image](https://user-images.githubusercontent.com/44376091/49333350-6ba47780-f58b-11e8-8033-f1d53f455f23.png)
+
+while other Box was build based on JavaFX's Class Dialog
+
+
+![image](https://user-images.githubusercontent.com/44376091/49333358-8c6ccd00-f58b-11e8-8fbc-b2ba04770574.png)
+
+
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [JavaFX](https://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm)
+* [JavaFX Dialog](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/Dialog.html)
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
