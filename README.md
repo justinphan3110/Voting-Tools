@@ -46,8 +46,17 @@ The choice Box was build manually in JavaFX
 
 while other Box was build based on JavaFX's Class Dialog
 
+Example 1: 
+
 
 ![image](https://user-images.githubusercontent.com/44376091/49333358-8c6ccd00-f58b-11e8-8fbc-b2ba04770574.png)
+
+
+Example2 :the save Box
+
+
+![image](https://user-images.githubusercontent.com/44376091/49333363-adcdb900-f58b-11e8-8b22-116750e20b44.png)
+
 
 
 
